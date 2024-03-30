@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#This code is to be used in businesscorp.com.br
+
 site="$1"
 ext="$2"
 
